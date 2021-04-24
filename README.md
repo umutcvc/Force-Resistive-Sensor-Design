@@ -1,6 +1,10 @@
-Force Resistive Sensor Design,
+Force Resistive Sensor Design
 
 
 
-Example Set-up;
+Example Circuit Set-up;
 ![](Images/Circuit.PNG)
+
+
+3D model of the soft sensor;
+![](Images/Model.PNG)
