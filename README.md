@@ -10,4 +10,4 @@ Force Resistive Sensor Design
 ![](Images/Model.PNG)
 
 *Youtube demonstration;
-![]https://www.youtube.com/watch?v=npRAkrWdMOI
+!https://www.youtube.com/watch?v=npRAkrWdMOI
